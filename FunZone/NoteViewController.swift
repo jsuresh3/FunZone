@@ -21,7 +21,7 @@ class NoteViewController: UIViewController {
         bodyNote.text = noteBody
         
         titleNote.layer.borderColor = UIColor.lightGray.cgColor
-        titleNote.layer.borderWidth = 133
+        titleNote.layer.borderWidth = 1
         titleNote.layer.cornerRadius = 5
         bodyNote.layer.borderWidth = 1
         bodyNote.layer.cornerRadius = 5
